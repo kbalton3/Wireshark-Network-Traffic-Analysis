@@ -102,7 +102,7 @@ The client advertised support for modern TLS versions, including **TLS 1.3**.
 
 ### TLS Client Hello Evidence
 
-![TLS HTTPS Analysis](screenshots/04-TLS-HTTPS-Analysis.png)
+![TLS Client Hello showing TLS negotiation details](screenshots/04-TLS-HTTPS-Analysis.png)
 
 This analysis demonstrated the relationship between TCP and TLS:
 
